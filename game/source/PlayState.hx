@@ -69,6 +69,7 @@ class PlayState extends FlxState
 
     private function movePlayer():Void
     {
+        //#TODO:0 need to get the jump
         player.velocity.x = 0;
         if (FlxG.keys.pressed.LEFT)
             player.velocity.x -= 100;
