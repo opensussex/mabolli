@@ -17,13 +17,11 @@ class Player extends FlxSprite
     public function new(x:Float, y:Float)
     {
         super(x, y);
-        loadGraphic(AssetPaths.characterWalk__png, true, 140, 173);
+        loadGraphic(AssetPaths.characterWalk__png, true, 70, 87);
         animation.add("idle", [0]);
         animation.add("walk", [
                             1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38], 32);
-        setSize(140, 173);
-        scale.x=0.5;
-        scale.y=0.5;
+        setSize(65, 83);
         drag.x = DRAG;
         acceleration.y = GRAVITY;
         maxVelocity.set(WALK_SPEED, FALLING_SPEED);
