@@ -51,9 +51,7 @@ class PlayState extends FlxState
         map.loadMapFromArray(mapData, 16,21, AssetPaths.sheet__png, 48, 48);
         add(map);
 
-        player = new FlxSprite(64, 0);
-        player.makeGraphic(48, 48, FlxColor.RED);
-        player.acceleration.y = 800;
+        player = new Player(64, 0);
         add(player);
 
         super.create();
@@ -64,7 +62,7 @@ class PlayState extends FlxState
 		super.update(elapsed);
 
         FlxG.collide(map, player);
-        movePlayer();
+        //movePlayer();
 	}
 
     private function movePlayer():Void
