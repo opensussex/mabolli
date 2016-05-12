@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="characterRun.png">
+	<!-- Created with Adobe Animate version 15.1.0.210 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="characterRun instance 10000" x="0" y="0" width="186" height="181" pivotX="88.1" pivotY="88.95"/>
+	<SubTexture name="characterRun instance 10001" x="186" y="0" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10002" x="372" y="0" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10003" x="558" y="0" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10004" x="744" y="0" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10005" x="0" y="181" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10006" x="186" y="181" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10007" x="372" y="181" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10008" x="558" y="181" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10009" x="744" y="181" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10010" x="0" y="362" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10011" x="186" y="362" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10012" x="372" y="362" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10013" x="558" y="362" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10014" x="744" y="362" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10015" x="0" y="543" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10016" x="186" y="543" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10017" x="372" y="543" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10018" x="558" y="543" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10019" x="744" y="543" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10020" x="0" y="724" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10021" x="186" y="724" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10022" x="372" y="724" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10023" x="558" y="724" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10024" x="744" y="724" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10025" x="0" y="905" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10026" x="186" y="905" width="186" height="181"/>
+	<SubTexture name="characterRun instance 10027" x="0" y="0" width="186" height="181"/>
+</TextureAtlas>

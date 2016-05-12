@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="characterUse.png">
+	<!-- Created with Adobe Animate version 15.1.0.210 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="characterUse instance 10000" x="0" y="0" width="175" height="161" pivotX="105.9" pivotY="81"/>
+	<SubTexture name="characterUse instance 10001" x="175" y="0" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10002" x="350" y="0" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10003" x="525" y="0" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10004" x="700" y="0" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10005" x="0" y="161" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10006" x="175" y="161" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10007" x="350" y="161" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10008" x="525" y="161" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10009" x="700" y="161" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10010" x="0" y="322" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10011" x="175" y="322" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10012" x="350" y="322" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10013" x="525" y="322" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10014" x="700" y="322" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10015" x="0" y="483" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10016" x="175" y="483" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10017" x="350" y="483" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10018" x="525" y="483" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10019" x="700" y="483" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10020" x="0" y="644" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10021" x="175" y="644" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10022" x="350" y="644" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10023" x="525" y="644" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10024" x="700" y="644" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10025" x="0" y="805" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10026" x="175" y="805" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10027" x="350" y="805" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10028" x="525" y="805" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10029" x="700" y="805" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10030" x="0" y="966" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10031" x="175" y="966" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10032" x="350" y="966" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10033" x="525" y="966" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10034" x="700" y="966" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10035" x="0" y="1127" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10036" x="175" y="1127" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10037" x="350" y="1127" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10038" x="525" y="1127" width="175" height="161"/>
+	<SubTexture name="characterUse instance 10039" x="0" y="0" width="175" height="161"/>
+</TextureAtlas>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="characterHit.png">
+	<!-- Created with Adobe Animate version 15.1.0.210 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="characterHit instance 10000" x="0" y="0" width="187" height="167" pivotX="73.8" pivotY="88.55"/>
+	<SubTexture name="characterHit instance 10001" x="187" y="0" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10002" x="374" y="0" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10003" x="561" y="0" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10004" x="748" y="0" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10005" x="0" y="167" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10006" x="187" y="167" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10007" x="374" y="167" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10008" x="561" y="167" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10009" x="748" y="167" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10010" x="0" y="334" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10011" x="187" y="334" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10012" x="374" y="334" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10013" x="561" y="334" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10014" x="748" y="334" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10015" x="0" y="501" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10016" x="187" y="501" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10017" x="374" y="501" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10018" x="561" y="501" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10019" x="748" y="501" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10020" x="0" y="668" width="187" height="167"/>
+	<SubTexture name="characterHit instance 10021" x="187" y="668" width="187" height="167"/>
+</TextureAtlas>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="characterIdle.png">
+	<!-- Created with Adobe Animate version 15.1.0.210 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="characterIdle instance 10000" x="0" y="0" width="114" height="157" pivotX="47.5" pivotY="78.95"/>
+	<SubTexture name="characterIdle instance 10001" x="114" y="0" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10002" x="228" y="0" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10003" x="342" y="0" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10004" x="456" y="0" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10005" x="570" y="0" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10006" x="684" y="0" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10007" x="798" y="0" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10008" x="0" y="157" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10009" x="114" y="157" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10010" x="228" y="157" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10011" x="342" y="157" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10012" x="456" y="157" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10013" x="570" y="157" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10014" x="684" y="157" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10015" x="798" y="157" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10016" x="0" y="314" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10017" x="114" y="314" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10018" x="228" y="314" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10019" x="342" y="314" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10020" x="456" y="314" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10021" x="570" y="314" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10022" x="684" y="314" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10023" x="798" y="314" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10024" x="0" y="471" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10025" x="114" y="471" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10026" x="228" y="471" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10027" x="342" y="471" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10028" x="456" y="471" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10029" x="570" y="471" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10030" x="684" y="471" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10031" x="798" y="471" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10032" x="0" y="628" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10033" x="114" y="628" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10034" x="228" y="628" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10035" x="342" y="628" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10036" x="342" y="628" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10037" x="456" y="628" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10038" x="570" y="628" width="114" height="157"/>
+	<SubTexture name="characterIdle instance 10039" x="0" y="0" width="114" height="157"/>
+</TextureAtlas>

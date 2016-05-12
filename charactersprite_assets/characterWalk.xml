@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="characterWalk.png">
+	<!-- Created with Adobe Animate version 15.1.0.210 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="characterWalk instance 10000" x="0" y="0" width="140" height="173" pivotX="59.8" pivotY="83.95"/>
+	<SubTexture name="characterWalk instance 10001" x="140" y="0" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10002" x="280" y="0" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10003" x="420" y="0" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10004" x="560" y="0" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10005" x="700" y="0" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10006" x="840" y="0" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10007" x="0" y="173" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10008" x="140" y="173" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10009" x="280" y="173" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10010" x="420" y="173" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10011" x="560" y="173" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10012" x="700" y="173" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10013" x="840" y="173" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10014" x="0" y="346" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10015" x="140" y="346" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10016" x="280" y="346" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10017" x="420" y="346" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10018" x="560" y="346" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10019" x="700" y="346" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10020" x="840" y="346" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10021" x="0" y="519" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10022" x="140" y="519" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10023" x="280" y="519" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10024" x="420" y="519" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10025" x="560" y="519" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10026" x="700" y="519" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10027" x="840" y="519" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10028" x="0" y="692" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10029" x="140" y="692" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10030" x="280" y="692" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10031" x="420" y="692" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10032" x="560" y="692" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10033" x="700" y="692" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10034" x="840" y="692" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10035" x="0" y="865" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10036" x="140" y="865" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10037" x="280" y="865" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10038" x="420" y="865" width="140" height="173"/>
+	<SubTexture name="characterWalk instance 10039" x="0" y="0" width="140" height="173"/>
+</TextureAtlas>
