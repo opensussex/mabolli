@@ -53,7 +53,7 @@ class PlayState extends FlxState
 
         player = new FlxSprite(64, 0);
         player.makeGraphic(48, 48, FlxColor.RED);
-        player.acceleration.y = 420;
+        player.acceleration.y = 800;
         add(player);
 
         super.create();
@@ -72,10 +72,10 @@ class PlayState extends FlxState
         //#TODO:0 need to get the jump
         player.velocity.x = 0;
         if (FlxG.keys.pressed.LEFT)
-            player.velocity.x -= 100;
+            player.velocity.x -= 200;
 
         if (FlxG.keys.pressed.RIGHT)
-            player.velocity.x += 100;
+            player.velocity.x += 200;
 
         if (FlxG.keys.justPressed.C && player.isTouching(FlxObject.FLOOR))
             player.velocity.y = -400;
