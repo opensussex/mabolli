@@ -85,7 +85,7 @@ class Player extends FlxSprite
         if(animation_state != animation_type) {
             switch(animation_type){
                 case 'idle':
-                    loadGraphic(AssetPaths.characterIdle__png, true, 57, 78);
+                    loadGraphic(AssetPaths.characterIdle__png, true, 57, 79);
                     setSize(65, 83);
                     animation.add("idle", [
                                             1,2,3,4,5,6,7,8,9,10,
@@ -95,7 +95,7 @@ class Player extends FlxSprite
                                             ], 32);
                     animation.play("idle");
                 case 'jump':
-                    loadGraphic(AssetPaths.characterJump__png, true, 75, 90);
+                    loadGraphic(AssetPaths.characterJump__png, true, 75, 91);
                     setSize(75, 90);
                     animation.add("jump", [
                                             1,2,3,4,5,6,7,8,9,10,
