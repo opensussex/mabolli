@@ -81,7 +81,6 @@ class Player extends FlxSprite
     private function animationType(animation_type:String)
     {
 
-        trace('as' + animation_state + ' | ' + animation_type);
         if(animation_state != animation_type) {
             switch(animation_type){
                 case 'idle':
